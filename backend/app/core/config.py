@@ -1,0 +1,2 @@
+OPENAI_API_KEY = "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"
+BASE_URL = "https://api.openai.com/v1"
